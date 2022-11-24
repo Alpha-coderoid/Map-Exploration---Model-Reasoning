@@ -4,7 +4,7 @@ map = [[' ', ' ', ' '], [' ', ' ', ' ']]
 for i in range(len(map)):
     print(map[i])
 # print(map[0])
-# print(map[0][4])
+print(map[0][4])
 # print(map[1][1][1])
 size = input()
 while (True):
